@@ -1,0 +1,8 @@
+//
+// Created by Yorkin on 2020/4/29.
+//
+
+#ifndef KATMANAGER_WIN32MANAGER_H
+#define KATMANAGER_WIN32MANAGER_H
+
+#endif //KATMANAGER_WIN32MANAGER_H
